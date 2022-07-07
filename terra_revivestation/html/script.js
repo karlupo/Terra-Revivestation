@@ -8,7 +8,7 @@ function createElementInDiv(plyName, costs, id){
     playerName.style.paddingLeft = "4%"
     plyDiv.appendChild(playerName);
     const reviveButton = document.createElement("button");
-    reviveButton.innerHTML = "Wiederbeleben \n" + costs + "$";
+    reviveButton.innerHTML = "Revive \n" + costs + "$";
     reviveButton.onclick = function() {
         $.post(window.location.origin.replace("cfx-nui-", "") + '/reviveply', JSON.stringify({
             ply: id
