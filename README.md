@@ -1,4 +1,4 @@
-# terra_revivestation
+# Terra Revivestation
 A Revivestation for Fivem made by karlupo
 
 This Revivestation is only for FiveM. 
