@@ -4,7 +4,7 @@ A Revivestation for Fivem made by karlupo
 This Revivestation is only for FiveM. 
 It only works for ESX and you also need the esx_ambulancejob(if you have another ambulance job change the called events in server/main.lua).
 And it's completly FREE, just give CREDITS!!!!
-You are NOT allowed to change the resource name.
+Please do NOT change the resource name.
 
 ═════════════════════════════════════════════════════════════════════════════════════════
 Configuration:
