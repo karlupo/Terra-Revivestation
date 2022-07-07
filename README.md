@@ -47,4 +47,4 @@ Simple put the terra_revivestation script in your Resource folder.
 
 
 ═════════════════════════════════════════════════════════════════════════════════════════
-And as said, please give credits. If you won't I will take down the script from your Server.
+And as said, please give credits.
