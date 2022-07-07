@@ -1,0 +1,47 @@
+#revivestat {
+    width: 40vw;
+    height: 50vh;
+    background-color: #000000;
+    border-radius: 2vw;
+    margin-left: 30vw;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+    color: white;
+    overflow: scroll;
+    box-shadow: -4px -3px 45px 21px rgba(0, 0, 0, 0.5);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#revivestat h1 {
+    text-align: center;
+}
+
+
+#revivestat::-webkit-scrollbar {
+    display: none;
+}
+
+#logo {
+    display: inline;
+    margin-bottom: -80px;
+    margin-left: 10px;
+}
+  
+button:hover {
+    box-shadow: 0px 0px 25px 5px #005faa;
+}
+
+#revBut {
+    grid-column: 2;
+}
+
+#name {
+    grid-template-columns: 1;
+}
+
+.plyDiv {
+    display: grid;
+    /* explizit definiertes Grid */
+    grid-template-columns: 22vw 13vw;
+
+}
