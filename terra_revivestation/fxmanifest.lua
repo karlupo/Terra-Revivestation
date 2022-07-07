@@ -4,7 +4,7 @@ game 'gta5'
 name "terra_revivestation"
 description "A simple Revivestation made by karlupo."
 author "karlupo"
-version "1.0.0"
+version "1.1.0"
 
 shared_scripts {
 	'config.lua',
